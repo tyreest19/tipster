@@ -7,7 +7,7 @@ Submitted by: **Tyree' Stevenson**
 Time spent: **3** hours spent in total
 
 ## User Stories
-
+[x]
 The following **required** functionality is complete:
 
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
@@ -21,13 +21,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://gph.is/1QG1kCF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=' http://gph.is/1QG1kC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
