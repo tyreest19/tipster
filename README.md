@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <<a href='http://gph.is/1QG1kCF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<H1>Video here<h1>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
